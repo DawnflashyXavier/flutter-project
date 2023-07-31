@@ -9,4 +9,3 @@ void main() {
   greet(name);
 }
 
-//a logical error. i am not sure were the problem is.
