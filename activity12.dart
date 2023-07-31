@@ -6,7 +6,7 @@ void greet(String? name){
 void main() {
   stdout.write("Your name is: ");
   String? name = stdin.readLineSync()!;
-  print(greet);
+  greet(name);
 }
 
 //a logical error. i am not sure were the problem is.
